@@ -1,0 +1,212 @@
+/* Alaska USA font support */
+/* PT Sans - www.../fontsquirrel.com */
+
+@font-face {
+    font-family: 'pt_sans_narrowregular';
+    src: url('../fonts/PTN57F-webfont.eot');
+    src: url('../fonts/PTN57F-webfont.woff') format('woff'),
+         url('../fonts/PTN57F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/PTN57F-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+/*
+AkusaIcon - icomoon.io
+*/
+
+@font-face {
+    font-family: 'AkusaIcon';
+    src: url('../fonts/AkusaIcon.eot?j5gpp4');
+    src: url('../fonts/AkusaIcon.woff?j5gpp4') format('woff'),
+         url('../fonts/AkusaIcon.eot?j5gpp4#iefix') format('embedded-opentype'),
+         url('../fonts/AkusaIcon.ttf?j5gpp4') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="AkusaIcon-"], [class*=" AkusaIcon-"] {
+	font-family: 'AkusaIcon' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	font-size:16pt;
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.AkusaIcon-car-icon:before {
+    content: "\e911";
+}
+.AkusaIcon-pinterest:before {
+    content: "\ead1";
+}
+.AkusaIcon-Instagram:before {
+    content: "\e910";
+}
+.AkusaIcon-Chat:before {
+    content: "\e904";
+}
+.AkusaIcon-ContactUs:before {
+    content: "\e905";
+}
+.AkusaIcon-Email:before {
+    content: "\e90f";
+}
+.AkusaIcon-mobile:before {
+    content: "\e959";
+}
+.AkusaIcon-bubbles:before {
+    content: "\e96d";
+}
+.AkusaIcon-at {
+  content: "\e60e";
+	font-size:inherit;
+	width:0;
+}
+.AkusaIcon-at:before {
+  content: "\e60e";
+	font-size:inherit;
+}
+.AkusaIcon-menu:before {
+    content: "\e9bd";
+}
+.AkusaIcon-Information:before {
+    content: "\e90e";
+}
+.AkusaIcon-Blog:before {
+    content: "\e600";
+}
+.AkusaIcon-Facebook:before {
+    content: "\e601";
+}
+.AkusaIcon-LinkedIn:before {
+    content: "\e602";
+}
+.AkusaIcon-Twitter:before {
+    content: "\e603";
+}
+.AkusaIcon-locations:before {
+    content: "\e604";
+}
+.AkusaIcon-search:before {
+    content: "\e605";
+}
+.AkusaIcon-lock2:before {
+    content: "\e606";
+}
+.AkusaIcon-phone:before {
+    content: "\e607";
+}
+.AkusaIcon-rates:before {
+    content: "\e608";
+}
+.AkusaIcon-Youtube:before {
+    content: "\e609";
+}
+.AkusaIcon-up:before {
+    content: "\e60a";
+}
+.AkusaIcon-right:before {
+    content: "\e60b";
+}
+.AkusaIcon-down:before {
+    content: "\e60c";
+}
+.AkusaIcon-left:before {
+    content: "\e60d";
+}
+.AkusaIcon-home:before {
+    content: "\e900";
+}
+.AkusaIcon-MakePayment:before {
+    content: "\e901";
+}
+.AkusaIcon-getQuote:before {
+    content: "\e902";
+}
+.AkusaIcon-openAccount:before {
+    content: "\e903";
+}
+.AkusaIcon-warning:before {
+    content: "\ea07";
+}
+.AkusaIcon-notification:before {
+    content: "\ea08";
+}
+.AkusaIcon-question:before {
+    content: "\ea09";
+}
+.AkusaIcon-info:before {
+    content: "\ea0c";
+}
+.AkusaIcon-cancel-circle:before {
+    content: "\ea0d";
+}
+.AkusaIcon-blocked:before {
+    content: "\ea0e";
+}
+.AkusaIcon-file-pdf:before {
+    content: "\eada";
+}
+.AkusaIcon-file-word:before {
+    content: "\eadc";
+}
+.AkusaIcon-file-excel:before {
+    content: "\eadd";
+}
+.AkusaIcon-chrome:before {
+    content: "\eae5";
+}
+.AkusaIcon-firefox:before {
+    content: "\eae6";
+}
+.AkusaIcon-IE:before {
+    content: "\eae7";
+}
+.AkusaIcon-opera:before {
+    content: "\eae8";
+}
+.AkusaIcon-safari:before {
+    content: "\eae9";
+}
+.AkusaIcon-cancel-x:before {
+    content: "\f081";
+}
+.AkusaIcon-Calendar:before {
+    content: "\e904";
+}
+.AkusaIcon-People:before {
+    content: "\e905";
+}
+.AkusaIcon-Insurance:before {
+    content: "\e906";
+}
+.AkusaIcon-Business:before {
+    content: "\e907";
+}
+.AkusaIcon-Hardhat:before {
+    content: "\e908";
+}
+.AkusaIcon-openSign:before {
+    content: "\e909";
+}
+.AkusaIcon-Property:before {
+    content: "\e90a";
+}
+.AkusaIcon-Stethescope:before {
+    content: "\e90b";
+}
+.AkusaIcon-Bonds:before {
+    content: "\e90c";
+}
+.AkusaIcon-form:before {
+    content: "\e90d";
+}

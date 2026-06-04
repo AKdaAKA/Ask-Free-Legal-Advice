@@ -1,0 +1,27 @@
+# Dependency directories
+node_modules/
+
+# Dev server log
+*.log
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V4
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Error logs
+error_log
+
+# PHP session files
+/tmp/
+
+# IDE files
+.vscode/
+.idea/
+
+# gemini agent data
+.gemini/

