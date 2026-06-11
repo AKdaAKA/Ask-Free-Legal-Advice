@@ -1,6 +1,6 @@
 # Ask Free Legal Advice India 🏛️
 
-[![Website](https://img.shields.io/badge/website-askfreelegaladvice.com-orange)](http://www.askfreelegaladvice.com)
+[![Website](https://img.shields.io/badge/website-asklegaladviceindia.com-orange)](http://www.asklegaladviceindia.com)
 [![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)](./disclaimer.html)
 
 A free legal advice platform for people in India who cannot afford costly legal services. Founded by a retired District Judge and family, this site offers general legal guidance across a wide range of areas of Indian law — entirely free of charge.
