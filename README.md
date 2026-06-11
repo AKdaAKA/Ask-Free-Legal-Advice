@@ -7,16 +7,13 @@ A free legal advice platform for people in India who cannot afford costly legal 
 
 ---
 
-## ✨ About the Project
+##  About the Project
 
 India has one of the world's strongest judiciaries, yet access to legal counsel remains out of reach for millions due to prohibitive costs. This platform was built to bridge that gap — providing free, confidential, general legal guidance to anyone in India who needs it.
 
-> *"The idea is that a relatively poor person cannot reach the doors of justice for a fair hearing only because of financial or similar constraints while it is in our constitutional values and republic ethics. It is a burden on our collective conscience."*  
-> — President Ram Nath Kovind, National Law Day, November 25, 2017
-
 ---
 
-## ⚖️ Areas of Legal Advice
+##  Areas of Legal Advice
 
 | Area | Topics Covered |
 |---|---|
@@ -29,7 +26,7 @@ India has one of the world's strongest judiciaries, yet access to legal counsel 
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 1. Visit the **Submit Your Inquiry** section on the homepage.
 2. Click **"Submit Your Inquiries!"** to fill out the Google Form.
@@ -39,7 +36,7 @@ It's free, confidential, and no strings attached.
 
 ---
 
-## 📋 Scope & Limitations
+##  Scope & Limitations
 
 To maintain quality and relevance, we do **not** respond to:
 - Requests for drafting legal documents or deeds
@@ -53,7 +50,7 @@ Please read the full [Disclaimer](./disclaimer.html) before submitting.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 This is a classic static/PHP website with a lightweight structure:
 
@@ -76,7 +73,7 @@ node serve.js
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Ask Free Legal Advice Old Site/
@@ -107,14 +104,12 @@ Ask Free Legal Advice Old Site/
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 All content on this website is provided for **general informational purposes only** and does not constitute formal legal advice. No attorney-client relationship is created by use of this site. See the full [Disclaimer](./disclaimer.html) for details.
 
 ---
 
-## 👤 Credits
+##  Credits
 
-- **Founded by:** Aakash Bhagavathi, in collaboration with a retired District Judge (grandfather) and family
-- **Legal Advisors:** Retired District Judge with decades of judicial experience
-- **© 2025 Ask Free Legal Advice India.** All rights reserved.
+- **Founded by:** Patrick George, Roubla Nailini
